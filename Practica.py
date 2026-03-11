@@ -16,3 +16,7 @@ def menor(A, B, C):
 # Función que retorna el promedio de dos valores
 def mean(A, B):
     return max(A, B)
+
+# Función que retorna la suma de dos valores
+def suma(A, B):
+    return suma(A, B)
